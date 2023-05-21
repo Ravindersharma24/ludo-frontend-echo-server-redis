@@ -1,0 +1,80 @@
+{
+  "name": "khelo-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free-regular": "^5.0.13",
+    "@fortawesome/fontawesome-free-solid": "^5.0.13",
+    "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    "@fortawesome/free-brands-svg-icons": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/material": "^5.10.7",
+    "@mui/styled-engine-sc": "^5.10.6",
+    "@reduxjs/toolkit": "^1.8.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "cashfree-dropjs": "^1.1.4",
+    "dotenv": "^16.0.2",
+    "laravel-echo": "^1.14.2",
+    "notistack": "^2.0.5",
+    "pusher-js": "^7.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-https-redirect": "^1.1.0",
+    "react-modal-image": "^2.6.0",
+    "react-moment": "^1.1.2",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.4.0",
+    "react-scripts": "5.0.1",
+    "react-share": "^4.4.1",
+    "react-toastify": "^9.0.8",
+    "reactjs-popup": "^2.0.5",
+    "redux": "^4.2.0",
+    "save": "^2.9.0",
+    "socket.io-react": "^1.2.0",
+    "styled-components": "^5.3.6",
+    "web-vitals": "^2.1.4",
+    "workbox-background-sync": "^6.5.4",
+    "workbox-broadcast-update": "^6.5.4",
+    "workbox-cacheable-response": "^6.5.4",
+    "workbox-core": "^6.5.4",
+    "workbox-expiration": "^6.5.4",
+    "workbox-google-analytics": "^6.5.4",
+    "workbox-navigation-preload": "^6.5.4",
+    "workbox-precaching": "^6.5.4",
+    "workbox-range-requests": "^6.5.4",
+    "workbox-routing": "^6.5.4",
+    "workbox-strategies": "^6.5.4",
+    "workbox-streams": "^6.5.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

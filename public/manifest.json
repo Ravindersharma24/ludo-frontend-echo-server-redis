@@ -1,0 +1,28 @@
+{
+    "name": "JJLudo App",
+    "short_name": "JJLudo",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "prefer_related_applications": false,
+  "icons": [
+    {
+        "src": "./img/favicon.ico",
+        "sizes": "48x48",
+        "type": "image/x-icon"
+      },
+
+      {
+        "src": "./img/jjludoRound512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+    {
+        "src": "./img/jjludoRound512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }
+  ]
+}
